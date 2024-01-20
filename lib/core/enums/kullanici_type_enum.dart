@@ -1,0 +1,7 @@
+
+enum KullaniciType {
+ 
+ hoca,
+ ogrenci
+
+}
